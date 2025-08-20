@@ -1,0 +1,32 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.coinhako",
+      "sha256_cert_fingerprints": [
+        "4C:C8:8E:5F:C8:33:95:6B:4C:68:35:9C:D6:43:27:7F:1E:4B:B3:CF:BB:D7:02:CC:96:06:54:B1:71:FF:A7:6B",
+        "42:77:85:26:CC:4A:5D:A3:48:CE:73:AE:E4:C3:01:7B:23:1E:DF:93:5C:6C:CB:CE:6C:38:D7:67:D9:7B:10:0F",
+        "D3:A2:36:47:84:99:D9:04:6D:9A:B5:AC:7D:06:9B:2D:7A:43:8F:5E:24:34:88:13:C8:B9:BD:99:4F:2F:83:FB"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.coinhako.catfood",
+      "sha256_cert_fingerprints": [
+        "B3:6E:48:53:E9:1A:AB:9E:6A:4A:D2:3D:BC:9B:BD:CC:18:B3:6B:CD:1C:21:6A:BC:D0:99:5B:DA:F3:92:56:CC",
+        "12:51:F8:A0:09:60:44:0B:ED:39:39:B9:0D:FA:16:22:99:49:EE:CB:DA:71:24:8C:0F:5B:51:67:04:91:EB:43",
+        "90:F7:30:9F:E7:62:AD:49:BF:7E:C7:BC:EB:78:B4:67:65:D2:6E:5A:9E:B2:58:E1:70:CF:6E:AC:09:1A:AD:76"
+      ]
+    }
+  }
+]
